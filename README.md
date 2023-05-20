@@ -17,6 +17,9 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1S-cUeQ7hMx0UuMncIIC0YDAWfBiTaOHzVO6cwgriuUM/edit?usp=sharing](https://docs.google.com/document/d/1S-cUeQ7hMx0UuMncIIC0YDAWfBiTaOHzVO6cwgriuUM/edit?usp=sharing)
 
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-vector/man-working-with-laptop-flat-design-style_180868-1756.jpg?w=740"/>
+<h2>About me 🎓<h2><br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manavdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manavdeveloper" height="30" width="40" /></a>
